@@ -35,15 +35,15 @@ Flick 是一款优雅高效的 **全局AI调用工具**，它将 AI 驱动的文
 ## 📦 安装
 
 ### 快速安装 (推荐)
-1. 从 [Releases 页面](https://github.com/celinechen2000c-blip/Flick/releases) 下载最新的 `.dmg` 文件
+1. 下载最新的 [Flick.dmg](https://github.com/H-20200525/Flick-main/raw/main/Flick.dmg)
 2. 双击挂载磁盘镜像
 3. 将 `Flick.app` 拖拽到「应用程序」文件夹
 4. 运行应用，并根据提示授予辅助功能权限
 
 ### 开发者安装
 ```bash
-git clone https://github.com/celinechen2000c-blip/Flick.git
-cd flick
+git clone https://github.com/H-20200525/Flick-main.git
+cd Flick-main
 open Flick.xcodeproj  # 在 Xcode 中构建并运行
 ```
 
@@ -175,12 +175,12 @@ Flick.app (菜单栏应用)
 
 我们欢迎各种贡献！以下是你提供帮助的方式：
 
-1. **报告问题**: [打开错误报告](https://github.com/celinechen2000c-blip/Flick/issues)
-2. **建议功能**: [分享你的想法](https://github.com/celinechen2000c-blip/Flick/issues/new?labels=enhancement)
+1. **报告问题**: [打开错误报告](https://github.com/H-20200525/Flick-main/issues)
+2. **建议功能**: [分享你的想法](https://github.com/H-20200525/Flick-main/issues/new?labels=enhancement)
 3. **提交代码**:
    ```bash
-   git clone https://github.com/celinechen2000c-blip/Flick.git
-   cd flick
+   git clone https://github.com/H-20200525/Flick-main.git
+   cd Flick-main
    git checkout -b feature/你的功能名称
    # 修改代码，然后创建 Pull Request
    ```
@@ -188,8 +188,8 @@ Flick.app (菜单栏应用)
 ### 开发环境设置
 ```bash
 # 1. 克隆并在 Xcode 中打开
-git clone https://github.com/celinechen2000c-blip/Flick.git
-open flick.xcodeproj
+git clone https://github.com/H-20200525/Flick-main.git
+open Flick.xcodeproj
 
 # 2. 构建并运行
 # 选择 "Flick" scheme
@@ -215,7 +215,7 @@ open flick.xcodeproj
 
 ### 获取帮助
 1. **查看上面的 [常见问题](#-常见问题)** 寻找常见解决方案
-2. **搜索现有的 [Issues](https://github.com/celinechen2000c-blip/Flick/issues)** 寻找类似问题
+2. **搜索现有的 [Issues](https://github.com/H-20200525/Flick-main/issues)** 寻找类似问题
 3. **如果找不到答案，请打开新的 Issue**
 
 ### 报告问题时请包含
@@ -226,7 +226,7 @@ open flick.xcodeproj
 - 任何相关的错误信息
 
 ### 与我们联系
-- 🐛 [Issues](https://github.com/celinechen2000c-blip/Flick/issues) - 报告错误或请求功能
+- 🐛 [Issues](https://github.com/H-20200525/Flick-main/issues) - 报告错误或请求功能
 - ⭐ **给项目加星** - 支持我们的工作！
 
 ## 📄 许可证
@@ -236,7 +236,7 @@ Flick 采用 MIT 许可证发布。详见 [LICENSE](LICENSE) 文件。
 ```
 MIT 许可证
 
-Copyright (c) 2025 celinechen2000c-blip
+Copyright (c) 2025 H-20200525
 
 特此免费授予任何获得本软件副本...
 ```
